@@ -1,2 +1,2 @@
 #!/bin/bash
-cat - list content of file to terminal
+find . -type f -name "*.js" -delete
