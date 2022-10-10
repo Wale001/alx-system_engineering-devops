@@ -1,1 +1,1 @@
-This is the solution to shell redirections and filters
+Shell I/O redirections
